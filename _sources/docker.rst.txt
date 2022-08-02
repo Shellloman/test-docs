@@ -1,4 +1,0 @@
-Docker
-======
-
-This page is about using the docker image of GIMOV

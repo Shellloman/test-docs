@@ -1,4 +1,0 @@
-Functions
-=========
-
-.. autofunction:: gimov.set_path
